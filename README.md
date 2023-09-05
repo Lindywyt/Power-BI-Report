@@ -42,7 +42,7 @@ The data was scrapped from the Kaggle. To clean, analyse, and visualise the data
 
 With the help of Power BI’s power query editor, the dataset was effectively cleaned and transformed.
 
-## Data mMdelling: 
+## Data Modelling: 
 
 There was no requirement for data modelling because the dataset contained just one sheet or table.
 
